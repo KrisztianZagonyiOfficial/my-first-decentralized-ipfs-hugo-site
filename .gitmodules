@@ -1,0 +1,3 @@
+[submodule "MDW/themes/ananke"]
+	path = MDW/themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
