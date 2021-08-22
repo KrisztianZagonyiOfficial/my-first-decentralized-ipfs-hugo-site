@@ -12,7 +12,7 @@ enableRobotsTXT = false
 
 [languages]
   [languages.en]
-    title = "My blog"
+    title = "MDW"
     weight = 1
     contentDir = "content/en"
 
